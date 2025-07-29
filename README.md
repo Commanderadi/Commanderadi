@@ -2,7 +2,7 @@
 
 **Aspiring Full Stack Developer & Data Scientist** | Building scalable web apps & smart machine learning models.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasamsher)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-89b88418)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Commanderadi)
 
 ---
