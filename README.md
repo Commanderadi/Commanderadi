@@ -9,7 +9,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🌐 [Crypto Dashboard]https://intelicrypto.netlify.app/
+#### 🌐 [Crypto Dashboard](https://intelicrypto.netlify.app/)
 Real-time dashboard for tracking cryptocurrency prices, trends, and historical data  
 **Tech**: React.js, TailwindCSS, Chart.js, CoinGecko API  
 **Deployment**: Netlify + Render  
