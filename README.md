@@ -9,7 +9,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🌐 [Crypto Dashboard](https://crypto-dashboard.netlify.app/)
+#### 🌐 [Crypto Dashboard]https://intelicrypto.netlify.app/
 Real-time dashboard for tracking cryptocurrency prices, trends, and historical data  
 **Tech**: React.js, TailwindCSS, Chart.js, CoinGecko API  
 **Deployment**: Netlify + Render  
@@ -17,7 +17,7 @@ Real-time dashboard for tracking cryptocurrency prices, trends, and historical d
 
 ---
 
-#### 🏥 [Sahay – Community Health Support Platform](https://github.com/Commanderadi/sahay)
+#### 🏥 [Sahay – Community Health Support Platform](https://sahaycommunity.netlify.app/))
 A MERN-based platform linking underserved Indian communities with 1000+ verified health clinics  
 **Tech**: MongoDB, Express.js, React.js, Node.js  
 🔐 JWT Auth | 🗱 Location-based filters | 📦 CI/CD pipeline (Docker + GitHub Actions in progress)
