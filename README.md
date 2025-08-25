@@ -17,7 +17,7 @@ Real-time dashboard for tracking cryptocurrency prices, trends, and historical d
 
 ---
 
-#### 🏥 [Sahay – Community Health Support Platform](https://sahaycommunity.netlify.app/))
+#### 🏥 [Sahay – Community Health Support Platform](https://sahaycommunity.netlify.app/)
 A MERN-based platform linking underserved Indian communities with 1000+ verified health clinics  
 **Tech**: MongoDB, Express.js, React.js, Node.js  
 🔐 JWT Auth | 🗱 Location-based filters | 📦 CI/CD pipeline (Docker + GitHub Actions in progress)
@@ -37,6 +37,20 @@ ML-based predictive modeling to estimate insurance charges
 📊 Linear & Tree models | 🧠 Feature engineering | ✅ 85%+ accuracy
 
 ---
+
+#### ⚡ [PowerFlow Analytics – Energy Intelligence Platform]
+Enterprise-grade platform for energy market analytics, facility monitoring & sustainability tracking
+**Tech**: React, Node.js, Express, MySQL, APIs (EIA, Baker Hughes, IoT), Python (ML)
+⚡ Real-time energy data | 🔮 Forecasting & anomaly detection | 🏭 Facility efficiency | 🌍 Carbon footprint reporting
+
+---
+
+#### 💹 [QuantumTrade Pro – Financial Intelligence Platform](https://github.com/Commanderadi/quantumtrade-pro)
+Full-stack platform integrating real-time NSE/BSE & cryptocurrency data with AI-powered trading insights
+**Tech** : React, Node.js, Express, MongoDB, WebSockets, REST APIs, Python (scikit-learn)
+📊 Live stock & crypto tracking | 📈 Portfolio analysis | 🔄 Real-time updates | 🤖 AI insights
+ 
+ ---
 
 ### 🧠 Skills & Tools
 
