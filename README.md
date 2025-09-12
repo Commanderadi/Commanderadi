@@ -54,13 +54,50 @@ Full-stack platform integrating real-time NSE/BSE & cryptocurrency data with AI-
 
 ### 🧠 Skills & Tools
 
-**Languages**: C++, Python, Java, JavaScript, SQL, HTML, CSS  
-**Frameworks/Libraries**: React.js, Node.js, Pandas, NumPy, Scikit-learn, PyTorch, Bootstrap  
-**DevOps & Cloud**: Docker, GitHub Actions, Terraform, Prometheus, Grafana  
-**Platforms**: AWS (S3, Lambda, Redshift, Glue, QuickSight)  
-**Data & BI**: Power BI, Tableau, Excel  
-**Databases**: MongoDB, MySQL, PostgreSQL  
-**Soft Skills**: Stakeholder Management, Communication, Team Collaboration  
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+
+### ⚡ Full-Stack & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+
+### 🤖 Data Science, AI/ML & Generative AI
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00BFFF?style=for-the-badge) 
+![Generative AI](https://img.shields.io/badge/Gen%20AI-8A2BE2?style=for-the-badge) 
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge) 
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FEA832?style=for-the-badge) 
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
+
+### 🤝 Soft Skills
+![Communication](https://img.shields.io/badge/Communication-1E90FF?style=for-the-badge) 
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-32CD32?style=for-the-badge) 
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Mgmt-FF4500?style=for-the-badge) 
+
 
 ---
 
