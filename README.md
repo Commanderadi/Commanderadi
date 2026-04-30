@@ -1,108 +1,86 @@
-## 👋 Hi, I'm Aditya Samsher Singh
+<!-- Copy this file into your GitHub profile repo: github.com/Commanderadi/Commanderadi as README.md -->
 
-**Aspiring Full Stack Developer & Data Scientist** | Building scalable web apps & smart machine learning models.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-89b884189)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Commanderadi)
-[![X](https://img.shields.io/badge/X-@adityasingh3499-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/adityasingh3499)
----
+# Aditya Samsher Singh
 
-### 🔥 Featured Projects
+**Analytics Engineer · Full-Stack & Data Platforms**
 
-#### 🌐 [Crypto Dashboard](https://intelicrypto.netlify.app/)
-Real-time dashboard for tracking cryptocurrency prices, trends, and historical data  
-**Tech**: React.js, TailwindCSS, Chart.js, CoinGecko API  
-**Deployment**: Netlify + Render  
-🌟 Interactive charts | 🔍 Live prices | 🌙 Dark mode
+_Building internal data systems, BI, and web/mobile tools that replace manual workflows with reliable pipelines and dashboards._
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-89b884189)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Commanderadi)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityasingh3499)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasingh3499@gmail.com)
 
-#### 🏥 [Sahay – Community Health Support Platform](https://sahaycommunity.netlify.app/)
-A MERN-based platform linking underserved Indian communities with 1000+ verified health clinics  
-**Tech**: MongoDB, Express.js, React.js, Node.js  
-🔐 JWT Auth | 🗱 Location-based filters | 📦 CI/CD pipeline (Docker + GitHub Actions in progress)
+</div>
 
 ---
 
-#### 📈 [Financial Analytics Dashboard](https://github.com/Commanderadi/Financial-Analytics-)
-Automated business KPI tracking with Power BI + Python ETL  
-**Tech**: Python, Power BI (DAX), Pandas  
-📈 Interactive filters | 🧹 Modular BI workflows | 📊 Cross-functional accessibility
+### Now
+
+- **Analytics Engineer (Data & Automation)** @ **ELETTRO** — data platforms, PostgreSQL, analytics frameworks, **Intelligence Portal** & **FOAP** (internal portals / field + ops tooling).
+- Stack in production: **Python**, **SQL/PostgreSQL**, **Power BI**, **NestJS**, **React/Next.js**, **Flutter**, **FastAPI**, **Redis**, **AWS S3**, automation & reporting.
 
 ---
 
-#### 💰 [Medical Insurance Price Prediction](https://github.com/Commanderadi/Insurance-Charge-Prediction)
-ML-based predictive modeling to estimate insurance charges  
-**Tech**: Python, scikit-learn, SHAP, Jupyter  
-📊 Linear & Tree models | 🧠 Feature engineering | ✅ 85%+ accuracy
+### Featured projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| [**Crypto Dashboard**](https://intelicrypto.netlify.app/) | Live crypto prices, charts, historical views | React, Tailwind, Chart.js, CoinGecko API · [Repo](https://github.com/Commanderadi/crypto-dashboard) |
+| [**Sahay — Community Health**](https://sahaycommunity.netlify.app/) | MERN platform connecting communities with verified clinics | MongoDB, Express, React, Node, JWT |
+| [**QuantumTrade Pro**](https://github.com/Commanderadi/quantumtrade-pro) | NSE/BSE + crypto tracking, portfolio-style analytics | React, Node, Express, MySQL, REST, WebSockets |
+| [**Financial Analytics**](https://github.com/Commanderadi/Financial-Analytics-) | KPI analytics, EDA, forecasting experiments | Python, pandas, Power BI/DAX |
+| [**Insurance charge prediction**](https://github.com/Commanderadi/Insurance-Charge-Prediction) | Supervised ML for premium/charge estimation | Python, scikit-learn, SHAP, Jupyter |
+| **PowerFlow Analytics** *(energy & sustainability)* | Energy market / facility analytics, forecasting & reporting *(code/demo shared when allowed)* | React, Node, Express, MySQL, Python ML, external data APIs |
 
 ---
 
-#### ⚡ [PowerFlow Analytics – Energy Intelligence Platform]
-Enterprise-grade platform for energy market analytics, facility monitoring & sustainability tracking
-**Tech**: React, Node.js, Express, MySQL, APIs (EIA, Baker Hughes, IoT), Python (ML)
-⚡ Real-time energy data | 🔮 Forecasting & anomaly detection | 🏭 Facility efficiency | 🌍 Carbon footprint reporting
+### Technical strengths
+
+**Languages** · Python · JavaScript/TypeScript · SQL · Java · C++ · HTML/CSS  
+
+**Data & BI** · PostgreSQL · MongoDB · MySQL · pandas · Power BI · DAX · ETL-style pipelines · web scraping  
+
+**Backend & APIs** · Node.js · NestJS · FastAPI · Express · REST · WebSockets  
+
+**Frontend & mobile** · React · Next.js · Flutter · Tailwind · Chart.js  
+
+**ML & AI** · scikit-learn · TensorFlow · classical ML & evaluation · GenAI/LLM integration (e.g. GPT-4 for reporting workflows) · LangChain-oriented patterns · Hugging Face  
+
+**Cloud & DevOps** · AWS (incl. prior AI/ML internship track) · Docker · GitHub Actions  
 
 ---
 
-#### 💹 [QuantumTrade Pro – Financial Intelligence Platform](https://github.com/Commanderadi/quantumtrade-pro)
-Full-stack platform integrating real-time NSE/BSE & cryptocurrency data with AI-powered trading insights
-**Tech** : React, Node.js, Express, MongoDB, WebSockets, REST APIs, Python (scikit-learn)
-📊 Live stock & crypto tracking | 📈 Portfolio analysis | 🔄 Real-time updates | 🤖 AI insights
- 
- ---
+### Badges (quick scan)
 
-### 🧠 Skills & Tools
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-
-### ⚡ Full-Stack & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-
-### 🤖 Data Science, AI/ML & Generative AI
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge) 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00BFFF?style=for-the-badge) 
-![Generative AI](https://img.shields.io/badge/Gen%20AI-8A2BE2?style=for-the-badge) 
-![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=for-the-badge) 
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FEA832?style=for-the-badge) 
-
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) 
-
-### 🤝 Soft Skills
-![Communication](https://img.shields.io/badge/Communication-1E90FF?style=for-the-badge) 
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-32CD32?style=for-the-badge) 
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Mgmt-FF4500?style=for-the-badge) 
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-### 📢 Reach Out
+### Open to
 
-Open to full-time roles & internships in **Full Stack Development** and **Data Science**  
-📬 adityasingh3499@gmail.com  
-📱 +91 93225 58989
+Full-time and internship roles in **analytics engineering**, **full-stack / platform development**, and **applied data + AI** — especially teams shipping internal tools, BI, or B2B products.
+
+**Contact** · [adityasingh3499@gmail.com](mailto:adityasingh3499@gmail.com) · +91 93225 58989
+
+---
+
+<div align="center">
+
+<sub>Profile README — update the PowerFlow row with your public link when you can share it.</sub>
+
+</div>
