@@ -28,7 +28,7 @@ _Building internal data systems, BI, and web/mobile tools that replace manual wo
 | Project | Description | Stack |
 |--------|-------------|--------|
 | [**FOAP — Field Officer Platform**](https://github.com/Commanderadi) *(overview)* | Production 3-tier SaaS: field sales, incentives, payroll admin, offline-first mobile, GPS over WebSockets/Redis, S3 verification | NestJS · React · Flutter · PostgreSQL · Redis · AWS S3 · Socket.IO |
-| [**ELETTRO Intelligence**](https://elettrointelligence.streamlit.app/) | Multi-tenant sales intelligence: **1.35M+** rows, maps, PDF reports, AI-assisted risk signals | Next.js · FastAPI · Supabase · PostgreSQL · Leaflet |
+| [**ELETTRO Intelligence**](https://elettrointelligence.streamlit.app/) | Multi-tenant sales intelligence: **1.35M+** rows, maps, PDF reports, AI-assisted risk signals | Next.js · FastAPI · Supabase/NEON · PostgreSQL · Leaflet |
 | [**Crypto Dashboard**](https://intelicrypto.netlify.app/) | Live crypto prices, charts, trends · [Repo](https://github.com/Commanderadi/crypto-dashboard) | React · TypeScript · Chart.js · Tailwind · Node API · **CatBoost** forecasting |
 | [**Sahay — Community Health**](https://sahaycommunity.netlify.app/) | MERN platform linking communities with verified clinics; JWT, RBAC, search | MongoDB · Express · React · Node · JWT |
 | [**QuantumTrade Pro**](https://github.com/Commanderadi/quantumtrade-pro) | NSE/BSE + crypto, portfolio-style views, market APIs | React · Node · Express · MySQL · REST · WebSockets |
@@ -113,7 +113,7 @@ _Building internal data systems, BI, and web/mobile tools that replace manual wo
 
 Full-time and internship roles in **analytics engineering**, **full-stack / platform development**, and **applied data + AI** — especially teams shipping internal tools, BI, or B2B products.
 
-**Contact** · [adityasingh3499@gmail.com](mailto:adityasingh3499@gmail.com) · +91 93225 58989
+**Contact** · [adityasingh3499@gmail.com](mailto:adityasingh3499@gmail.com) 
 
 ---
 
