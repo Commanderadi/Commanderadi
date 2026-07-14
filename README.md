@@ -19,7 +19,7 @@ _Building internal data systems, BI, and web/mobile tools that replace manual wo
 ### Now
 
 - **Analytics Engineer (Data & Automation)** @ **ELETTRO** — data platforms, PostgreSQL, analytics frameworks, **Intelligence Portal** & **FOAP** (internal portals / field + ops tooling).
-- Stack in production: **Python**, **SQL/PostgreSQL**, **Power BI**, **NestJS**, **React/Next.js**, **Flutter**, **FastAPI**, **Redis**, **AWS S3**, automation & reporting.
+- Stack in production: **Python**, **SQL/PostgreSQL**, **Power BI**, **NestJS**, **React/Next.js**, **Flutter**, **FastAPI**, **Redis**, **Cloudflare R2**, automation & reporting.
 
 ---
 
@@ -27,8 +27,8 @@ _Building internal data systems, BI, and web/mobile tools that replace manual wo
 
 | Project | Description | Stack |
 |--------|-------------|--------|
-| [**FOAP — Field Officer Platform**](https://github.com/Commanderadi) *(overview)* | Production 3-tier SaaS: field sales, incentives, payroll admin, offline-first mobile, GPS over WebSockets/Redis, S3 verification | NestJS · React · Flutter · PostgreSQL · Redis · AWS S3 · Socket.IO |
-| [**ELETTRO Intelligence**](https://elettrointelligence.streamlit.app/) | Multi-tenant sales intelligence: **1.35M+** rows, maps, PDF reports, AI-assisted risk signals | Next.js · FastAPI · Supabase/NEON · PostgreSQL · Leaflet |
+| **FOAP — Field Officer Platform** *(private repo)* | Production 3-tier SaaS: field sales ops, offline-first mobile with odometer photo OCR, visit & quotation management, live admin map, GPS over WebSockets/Redis | NestJS · React · Flutter · PostgreSQL · Redis · Cloudflare R2 · Socket.IO |
+| [**ELETTRO Intelligence**](https://elettrointelligence.streamlit.app/) | Sales intelligence platform for a manufacturer: GST-aware analytics, churn prediction, AI chatbot, PDF reports. **26K+** records, ₹29.65 Cr tracked | Next.js · FastAPI · Supabase · PostgreSQL · Leaflet |
 | [**Crypto Dashboard**](https://intelicrypto.netlify.app/) | Live crypto prices, charts, trends · [Repo](https://github.com/Commanderadi/crypto-dashboard) | React · TypeScript · Chart.js · Tailwind · Node API · **CatBoost** forecasting |
 | [**Sahay — Community Health**](https://sahaycommunity.netlify.app/) | MERN platform linking communities with verified clinics; JWT, RBAC, search | MongoDB · Express · React · Node · JWT |
 | [**QuantumTrade Pro**](https://github.com/Commanderadi/quantumtrade-pro) | NSE/BSE + crypto, portfolio-style views, market APIs | React · Node · Express · MySQL · REST · WebSockets |
