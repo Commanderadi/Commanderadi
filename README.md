@@ -41,7 +41,7 @@ _I build internal data platforms, BI tools and production web/mobile apps, end t
 | Project | What it is | Stack |
 |--------|-------------|--------|
 | [**Autonomous Research Agent**](https://github.com/Commanderadi/autonomous_research_agent) | Scrapes articles, processes them with spaCy and summarizes with a Hugging Face T5 model (~10–30 s per article). Scheduled runs with email/webhook alerts, Gradio UI, deployed on Hugging Face Spaces. | Python · spaCy · Transformers · Gradio · newspaper3k · APScheduler |
-| [**Financial Analytics & Prediction**](https://github.com/Commanderadi/Financial-Analytics-) | Stock EDA and technical indicators; Linear Regression vs LSTM, evaluated with MAE / RMSE / R². | Python · pandas · scikit-learn · LSTM |
+| [**Financial Analytics**](https://github.com/Commanderadi/Financial-Analytics) | AAPL / GOOGL / MSFT via yfinance: MA, EMA and RSI feature engineering, EDA, and Random Forest price regression (MAE / MSE). | Python · pandas · yfinance · scikit-learn |
 | [**College Event Feedback Analysis**](https://github.com/Commanderadi/College-Event-Feedback-Analysis) | Survey KPIs and NLTK VADER sentiment analysis. | Python · pandas · NLTK · seaborn |
 | [**Vehicle Detection**](https://github.com/Commanderadi/Vehicle-Detection) | Haar cascades + YOLOv3 (COCO) on images and video. | Python · OpenCV · YOLOv3 |
 | [**Pedestrian Detection**](https://github.com/Commanderadi/Pedestrian-detection) | HOG + SVM on images and live webcam. | Python · OpenCV |
@@ -51,7 +51,7 @@ _I build internal data platforms, BI tools and production web/mobile apps, end t
 
 | Project | What it is | Stack |
 |--------|-------------|--------|
-| [**E-commerce Sales Dashboard**](https://github.com/Commanderadi/E-commerce-Sales-Dashboard-) | Sales KPIs, DAX measures, seasonal and regional trends | Power BI · DAX · Excel |
+| [**E-commerce Sales Dashboard**](https://github.com/Commanderadi/E-commerce-Sales-Dashboard) | Sales KPIs, DAX measures, seasonal and regional trends | Power BI · DAX · Excel |
 | [**Social Media Campaign Dashboard**](https://github.com/Commanderadi/Social-Media-Campaign-Performance-Dashboard) | Campaign ROI and ad spend across channels | Power BI · DAX |
 | [**CSV → JSON API**](https://github.com/Commanderadi/csv-to-json-api) | Custom CSV parser, batch loads into MySQL | Node.js · MySQL · REST |
 | [**Real-time Chat**](https://github.com/Commanderadi/Chat-application) | Teams-style real-time chat | React · Chat Engine |
