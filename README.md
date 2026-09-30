@@ -54,7 +54,6 @@ _I build internal data platforms, BI tools and production web/mobile apps, end t
 | [**E-commerce Sales Dashboard**](https://github.com/Commanderadi/E-commerce-Sales-Dashboard) | Sales KPIs, DAX measures, seasonal and regional trends | Power BI · DAX · Excel |
 | [**Social Media Campaign Dashboard**](https://github.com/Commanderadi/Social-Media-Campaign-Performance-Dashboard) | Campaign ROI and ad spend across channels | Power BI · DAX |
 | [**CSV → JSON API**](https://github.com/Commanderadi/csv-to-json-api) | Custom CSV parser, batch loads into MySQL | Node.js · MySQL · REST |
-| [**Real-time Chat**](https://github.com/Commanderadi/Chat-application) | Teams-style real-time chat | React · Chat Engine |
 | [**Student Result Management**](https://github.com/Commanderadi/Student-Result-Management-System) | Multi-portal academic results system | PHP · MySQL |
 
 </details>
